@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/home/gublu/AndroidStudioProjects/HomeCure/app/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.3/libs/internal_impl-21.0.3.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="01ec05bfbafcc07646ba813000bf2ef11742dd03">
+        <dex dex="/home/gublu/AndroidStudioProjects/HomeCure/app/build/intermediates/pre-dexed/debug/internal_impl-21.0.3-72964e98d9cbb94fb807b32b224c8fad48418fc5.jar" />
+    </item>
+    <item
+        jar="/home/gublu/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/21.0.3/support-annotations-21.0.3.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="4b74cefe1f0c1b819e7260c8627a14674e37fd35">
+        <dex dex="/home/gublu/AndroidStudioProjects/HomeCure/app/build/intermediates/pre-dexed/debug/support-annotations-21.0.3-34105cf6d4060efd8b960b64be9719f6c5ee85f0.jar" />
+    </item>
+    <item
+        jar="/home/gublu/AndroidStudioProjects/HomeCure/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="81d42bf983a8741f4888a6e333e454e4a5e0eeb7">
+        <dex dex="/home/gublu/AndroidStudioProjects/HomeCure/app/build/intermediates/pre-dexed/debug/classes-3a9d1b6340c8ead89c9f78fad4f9eb4e227dba71.jar" />
+    </item>
+    <item
+        jar="/home/gublu/AndroidStudioProjects/HomeCure/app/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.3/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="2c91c949a45a21cdecf26e03951e46c7beec9ad8">
+        <dex dex="/home/gublu/AndroidStudioProjects/HomeCure/app/build/intermediates/pre-dexed/debug/classes-ac39bc0d9d464ee348d2e70f8efaa17fde38b3b8.jar" />
+    </item>
+
+</items>
